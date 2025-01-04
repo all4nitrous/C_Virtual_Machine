@@ -1,2 +1,7 @@
 # C_Virtual_Machine
-C based virtual machine created from Dr. Jonas Birch video tutorial. https://www.youtube.com/watch?v=vymrj-2YD64&amp;list=PLnilI2b2JY0VMUgA5p-ybv0TJLb-rVNQW&amp;index=6
+# 💻  Stack<br/>
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)<br/>
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+
+# [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)  Video Used<br/>
+[![Watch the video](https://ytcards.demolab.com/?id=vymrj-2YD64)](https://www.youtube.com/watch?v=vymrj-2YD64)
